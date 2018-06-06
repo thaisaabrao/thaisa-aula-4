@@ -1,0 +1,73 @@
+
+LEMBRAR que o palpite é 1000.
+Perguntar se o palpite está correto.
+LEMBRAR que o menor possivel é 1.
+LEMBRAR que o maior possivel é 2000.
+
+Enquanto (palpite errado) REPETIR:
+SE a resposta for maior.
+LEMBRAR que o menor numero é o palpite.
+SENÃO 
+LEMBRAR que o maior numero é o palpite.
+
+LEMBRAR que o palpite agora é o maior numero do intervalo, MENOS o menor numero do intervalo,Mais um,dividindo por dois,
+arredondado para cima e entao somado no menor numero do intervalo.
+Perguntar se o palpite está correto.
+
+LEMBRAR que o plapite é 1000
+Perguntar se o palpite está correto.
+
+ENQUANTO (palpite errado) REPETIR
+Se a resposta for maior
+LEMBRAR se o palpite é palpite * 1,5
+SENÃO
+LEMBRAR que o palpite é palpite / 2
+Perguntar se o palpite está correto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
