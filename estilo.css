@@ -1,0 +1,97 @@
+body {
+    max-width: 600px;
+    margin: 40px auto 0;
+    font-family: sans-serif ;
+    line-height: 1.5;
+}
+
+h2 { 
+border-top: solid 5px red ;
+margin-top: 50px; 
+padding-top: 20px;
+text-transform: uppercase; 
+letter-spacing: 1px; 
+
+}
+
+h2 span {
+    font-family: Georgia, serif ; 
+    font-style: italic ;
+    font-size: 20px;
+    color: red ;
+    display: inline-block ;
+    margin-left: 200px ;
+
+}
+p {
+    color: black ;
+
+}
+#primeiro {
+    font-size: 20px;
+    font-weight: bold;
+}
+.azul {
+    color: black ; 
+}
+
+[nome=menor] {
+    border: dotted 1px black; 
+}
+
+footer {
+    margin-bottom: 100px; 
+}
+
+ol {
+    margin: 0; 
+    padding: 0;
+    margin-bottom: 60px;
+    list-style-type: none;
+}
+
+li {
+    background-color: rgb(129, 93, 93) ;
+    border-radius: 4px; 
+    margin-bottom: 10px;
+}
+
+li a {
+    text-decoration: none ;
+}
+
+li a:visited {
+    color: inherit; 
+}
+
+li a:hover {
+    color: pink ; 
+    font-size: 20px ; 
+}
+
+.final {
+    width: 50px;
+    height: 50px;
+    border-radius: 3px;
+    border: none; 
+    color: white ; 
+    font-size: 25px;
+    margin: auto 15px auto;
+}
+
+.
+final:nth-child(1)
+{
+    background-color: blueviolet;
+
+}
+
+
+final:nth-child(2)
+{
+    background-color: blueviolet;
+
+}
+
+
+
