@@ -79,23 +79,42 @@ li a:hover {
     margin: auto 15px auto;
 }
 
-
 .final:nth-child(1)
 {
     background-color: blueviolet;
 
 }
 
-
 .final:nth-child(2)
+{
+    background-color: blueviolet;
+
+}
+.final:nth-child(3)
+{
+    background-color: blueviolet;
+
+}
+.final:nth-child(4)
+{
+    background-color: blueviolet;
+
+}
+
+.final:nth-child(5)
 {
     background-color: blueviolet;
 
 }
 
 img {
-    border: red;
+    border: red 3px solid; 
     position: relative;
-    left: 100px; 
+    top: 70px;
+
 }
 
+article {
+    position: relative;
+
+}
