@@ -51,7 +51,7 @@ ol {
 }
 
 li {
-    background-color: rgb(129, 93, 93) ;
+    background-color: rgb(129, 93, 93);
     border-radius: 4px; 
     margin-bottom: 10px;
 }
@@ -79,19 +79,23 @@ li a:hover {
     margin: auto 15px auto;
 }
 
-.
-final:nth-child(1)
+
+.final:nth-child(1)
 {
     background-color: blueviolet;
 
 }
 
 
-final:nth-child(2)
+.final:nth-child(2)
 {
     background-color: blueviolet;
 
 }
 
-
+img {
+    border: red;
+    position: relative;
+    left: 100px; 
+}
 
